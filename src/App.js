@@ -2,7 +2,7 @@ import "./scss/app.scss";
 import { Header } from "./components/header";
 import { Category } from "./components/category";
 import { Sort } from "./components/sort";
-import { PizzaBlock } from "./components/PizzaBlock";
+import { PizzaBlock } from "./components/pizzaBlock";
 
 function App() {
   return (
